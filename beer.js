@@ -7,7 +7,7 @@ $(function() {
     'Amalgamated Musings',
     'Sound Unwound',
     'Adam K',
-    'Cojita Ergo Sum',
+    'Cotija Ergo Sum',
     'The Wavpool',
     'Ars Symphonica',
     'Sonic Blend',
